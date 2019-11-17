@@ -32,7 +32,6 @@
  <content src="index.html" />
     <!-- Core plugins -->
     <plugin name="cordova-plugin-device" />
-    <plugin name="cordova-plugin-network-information" />
 
     <!-- Third party plugins -->
     <!-- A list of available plugins are available at https://build.phonegap.com/plugins -->
